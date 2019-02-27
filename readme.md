@@ -1,4 +1,8 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+<p align="center"><a href="https://uny.ac.id/" target="_blank"><img width="125" src="https://www.uny.ac.id/sites/www.uny.ac.id/files/logo%20web%20indo.png" alt="UNY Logo"></a>
+  &nbsp
+  &nbsp
+ <a href="https://arifpujin.com" target="_blank"><img width="43" src="https://github.com/arifpujin/Exersice1/blob/master/fotoarif.png" alt="Vektor Arif"></a></p>
+ <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
