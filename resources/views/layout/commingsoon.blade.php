@@ -75,8 +75,8 @@
 							
 								<h1 class="text-intro opacity-0">Comming Soon</h1>
 							
-								<p class="text-intro opacity-0">So Excited !!! Product Launch by Arif and Anang.
-                                <br> Crews Management System.
+								<p class="text-intro opacity-0">Please Pray !!! Product Launch by Arif Puji Nugroho.
+                                <br> inventory Management System For His Thesis.
 								</p>
 
 							
