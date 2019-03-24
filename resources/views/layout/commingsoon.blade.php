@@ -76,7 +76,7 @@
 								<h1 class="text-intro opacity-0">Comming Soon</h1>
 							
 								<p class="text-intro opacity-0">Please Pray !!! Product Launch by Arif Puji Nugroho.
-                                <br> inventory Management System For His Thesis.
+                                <br>Inventory Management System For His Thesis.
 								</p>
 
 							
