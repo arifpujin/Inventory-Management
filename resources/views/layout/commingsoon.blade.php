@@ -71,7 +71,7 @@
 
 							<div class="container">
 
-								<img src="https://unytechtv.com/wp-content/uploads/2018/12/UNYtechTV-300x97.png" alt="logo UNYtechTV" class="brand-logo text-intro opacity-0" />
+								<img src="assets/images/logo UNYtechTV.png" alt="logo UNYtechTV" style="hight:90%;" class="brand-logo text-intro opacity-0" />
 							
 								<h1 class="text-intro opacity-0">Comming Soon</h1>
 							
