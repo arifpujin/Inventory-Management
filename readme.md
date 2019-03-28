@@ -1,8 +1,11 @@
-<p align="center"><a href="https://uny.ac.id/" target="_blank"><img width="125" src="https://www.uny.ac.id/sites/www.uny.ac.id/files/logo%20web%20indo.png" alt="UNY Logo"></a>
+<p align="center"><a href="https://uny.ac.id/" target="_blank"><img width="130" src="https://www.uny.ac.id/sites/www.uny.ac.id/files/logo%20web%20indo.png" alt="UNY Logo"></a>
   &nbsp
+ <a href="https://bgrc.com.my/" target="_blank"><img width="120" src="https://unytechtv.com/wp-content/uploads/2018/12/UNYtechTV-300x97.png" alt="Logo BGRC"></a>
   &nbsp
  <a href="https://arifpujin.com" target="_blank"><img width="43" src="https://github.com/arifpujin/Exersice1/blob/master/fotoarif.png" alt="Vektor Arif"></a></p>
  <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+<br>
+
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -10,6 +13,17 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+
+<h1>Crew UNYtechTV - Laravel </h1>
+Crew Management System for UNYtechTV
+<br>
+<ul>
+  <li>Register Crews UNYtechTV</li>
+  <li>Data All Crews</li>
+</ul>
+<br><br><br>
+edited by https://arifpujin.com
+email : <a href="mailto:arifpujinugroho@gmail.com" target="_blank">arifpujinugroho@gmail.com</a>
 
 ## About Laravel
 
