@@ -14,14 +14,15 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-<h1>Crew UNYtechTV - Laravel </h1>
-Crew Management System for UNYtechTV
+<h1>Inventory UNYtechTV - Laravel 5.8</h1>
+Inventory Management System for UNYtechTV
 <br>
 <ul>
-  <li>Register Crews UNYtechTV</li>
-  <li>Data All Crews</li>
-</ul>
-<br><br><br>
+  <li>Management Inventory</li>
+  <li>Data All Inventroy</li>
+  <li>Information Description Inventory</li>
+  </ul>
+<br>
 edited by https://arifpujin.com
 email : <a href="mailto:arifpujinugroho@gmail.com" target="_blank">arifpujinugroho@gmail.com</a>
 
