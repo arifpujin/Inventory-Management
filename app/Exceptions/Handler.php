@@ -44,6 +44,17 @@ class Handler extends ExceptionHandler
      */
     public function render($request, Exception $exception)
     {
+        //jiko halaman tidak tersedia.     
+        if($exception instanceof NotFoundHttpException)
+        {
+             return response()->view('errors.404', [], 404);
+        }
+        //jika debug nyala ada yang rusak.
+        if($exception instanceof \ErrorException)
+        {
+             return response()->view('errors.500', [], 500);
+        }
+        
         return parent::render($request, $exception);
     }
 

@@ -1,5 +1,52 @@
 <!DOCTYPE html>
 
+
+<!--
+
+
+	***** HAYO.. Mau Ngapain Buka Inpect Element? *****
+   *********** JANGAN ISENG BUKA BUKA KODENYA ***********
+
+//=========================================================//
+//         //\\       ||====    ||      ||==========       //
+//        //  \\      ||  //    ||      ||                 //
+//       //    \\     || //     ||      ||========         //
+//      //======\\    || \\     ||      ||                 //
+//     //        \\   ||  \\    ||      ||                 //
+//    //          \\  ||   \\   ||      ||                 //
+//                                                         //
+//        Created By Arif Puji Nugroho (Indonesia)         //
+//     Website    : https://arifpujin.com/                 //
+//     GitHub     : https://Github.com/arifpujin           //
+//     Facebook   : https://facebook.com/arifpn            //
+//     Instagram  : https://instagram.com/reallifeapn      //
+//     Whatsapp   : +6285885994505                         //
+//     Email      : arifpujinugroho@gmail.com              //
+//=========================================================//
+
+//    *****Inventory Management System for LAB TV FT UNY 2019**********
+//        *****Proyek Akhir Skripsi || Proyek Mandiri UNY**********
+//             ***** 5 Maret 2019 - Thesis Finish **********
+
+
+
+
+
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <html lang="en-us" class="no-js">
 
 	<head>
@@ -13,6 +60,10 @@
         <meta name="msapplication-TileImage" content="https://unytechtv.com/wp-content/uploads/2018/12/cropped-favicon-270x270.png" />
         <link rel="stylesheet" href="assets/comming-soon/css/style-minimal-flat.css" />
 		<script src="assets/comming-soon/js/modernizr.custom.js"></script>
+
+		<!-- CSRF Token -->
+		<meta name="csrf-token" content="{{ csrf_token() }}">
+	
 	</head>
 
     <body>

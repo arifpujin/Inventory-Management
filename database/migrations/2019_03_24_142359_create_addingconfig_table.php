@@ -21,7 +21,8 @@ class CreateAddingconfigTable extends Migration
         });
 
         DB::table('addingconfig')->insert(array(
-			array('name' => 'modemaintenance', 'isinya' => 'true'),
+            array('name' => 'modemaintenance', 'isinya' => 'true'),
+            array('name' => 'pengumuman', 'isinya' => 'welcome to inventory UNYtechTV'),
 		));
     }
 
